@@ -1,5 +1,7 @@
 # Extract Van Gogh Paintings Code Challenge - Keith Tovar
 
+*To see it in action*: [Watch Loom here](https://www.loom.com/share/76eb401239d640c6aae4b06a06217b9e?sid=6efcec06-e255-4257-85b2-bb2e0b723c84)
+
 Built using Node/Express. To start server: 
 
 First install dependencies
