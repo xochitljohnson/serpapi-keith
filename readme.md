@@ -30,5 +30,9 @@ For the next step, I took this array and used the Node core module `fs.writeFile
 
 My main point of reference was the array data found in the SerpApi playground. From there, I was able to determine where the values where that I needed and how I could access them.
 
+*** Update ***
 
-*Total time spent: ~2.5 hours.*
+Collaborative version control isn't my forte. I believe I have already tried to fork the main serpapi repository and failed to do it correctly. My apologies.
+
+
+*Total time spent: ~3 hours.*
